@@ -33,4 +33,4 @@ To move to the next line press "shift + enter"
 ]
 })
 --To check the age between the given ages use "db.car_parking.find({ age: {$in: [20, 22, 24]}})"
---
+--nikiii
